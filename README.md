@@ -27,7 +27,7 @@
 1. Next.js 
 2. TypeScript
 3. Tailwind CSS + ShadCN 
-4. Turso Database
+4. Turso + Drizzle ORM (database: SQLite)
 5. Git/GitHub
 6. DeepSeek + Google Gemini (تم الاستخدام في التطوير)
 7. Hugging Face Spaces (AI)
